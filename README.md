@@ -1,3 +1,1 @@
 KP_CICD_TEST.git
-
-XZX
